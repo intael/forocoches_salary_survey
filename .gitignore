@@ -1,0 +1,10 @@
+data
+*.csv
+packrat
+RHistory
+*.Rproj*
+.Rprofile*
+.DS_Store
+packrat/lib*/
+.Rproj.user
+PreliminaryCharts

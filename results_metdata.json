@@ -1,0 +1,18 @@
+{
+"Headers" : [
+              "AnswerID",
+              "GrossAnualWage",
+              "NetAnualWage",
+              "Gender",
+              "Age",
+              "Province",
+              "ContractType",
+              "WeeklyHours",
+              "Sector",
+              "YearsExperience",
+              "Education",
+              "created_at",
+              "submited_at",
+              "NetworkID"
+            ]
+}
